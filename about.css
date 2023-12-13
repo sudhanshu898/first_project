@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(230, 225, 225);
+    padding: 3vw 20vw;
+}
+.about{
+    background-color: antiquewhite;
+    width: 60vw;
+    height: 35vw;
+    display: flex;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    gap: 3rem;
+
+}
+
+.about-1{
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    width: 30rem;
+    height: 20rem;
+    border-radius: 8px;
+}
+
+
+h2{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+
+p{
+    text-align: center;
+}
